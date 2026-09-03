@@ -1,3 +1,10 @@
 {
-  "assets": []
+  "assets": [
+    {
+      "titulo": "IDK",
+      "tipo": "tema",
+      "alvo": "tema",
+      "ficheiro": "temas/idk.json"
+    }
+  ]
 }
