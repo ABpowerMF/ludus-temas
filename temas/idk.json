@@ -1,0 +1,36 @@
+{
+  "nome": "IDK",
+  "autor": "AB",
+  "descricao": "Purple wallpaper",
+  "cores": {
+    "fundo": "#12021d",
+    "texto": "#e8e6ff",
+    "destaque": "#5c3fcf",
+    "aviso": "#bb00ff"
+  },
+  "fonte": {
+    "corpo": "Courier Prime",
+    "titulos": "system-ui",
+    "escala": 0.96
+  },
+  "formas": {
+    "raio": 4,
+    "densidade": "normal"
+  },
+  "movimento": {
+    "transicao": 280
+  },
+  "fundo": {
+    "tipo": "malha",
+    "cores": [
+      "#060308",
+      "#31072b",
+      "#3e284d"
+    ],
+    "velocidade": 42,
+    "angulo": 160
+  },
+  "marca": {
+    "texto": "Ludus"
+  }
+}
