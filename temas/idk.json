@@ -1,34 +1,33 @@
 {
-  "nome": "IDK",
+  "nome": "idk",
   "autor": "AB",
   "descricao": "Purple wallpaper",
   "cores": {
-    "fundo": "#12021d",
-    "texto": "#e8e6ff",
-    "destaque": "#5c3fcf",
-    "aviso": "#bb00ff"
+    "fundo": "#0e0515",
+    "texto": "#ffffff",
+    "destaque": "#28013c",
+    "superficie": "#0e0218"
   },
   "fonte": {
     "corpo": "Courier Prime",
     "titulos": "system-ui",
-    "escala": 0.96
+    "escala": 1
   },
   "formas": {
-    "raio": 4,
+    "raio": 7,
     "densidade": "normal"
   },
   "movimento": {
     "transicao": 280
   },
   "fundo": {
-    "tipo": "malha",
+    "tipo": "aurora",
     "cores": [
-      "#060308",
-      "#31072b",
-      "#3e284d"
+      "#000000",
+      "#250335",
+      "#4f006b"
     ],
-    "velocidade": 42,
-    "angulo": 160
+    "velocidade": 28
   },
   "marca": {
     "texto": "Ludus"
